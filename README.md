@@ -1,4 +1,4 @@
-# DNAcrns
+# DNA-notebooks
 
 Temporal CRNS - ipython notebooks for analyzing plate reader and spectrofluorometer data related to DNA chemical reaction network experiments.
 
